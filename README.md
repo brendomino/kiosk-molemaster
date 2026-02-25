@@ -1,1 +1,1 @@
-# kiosk-molemaster
+# kiosk-hi-vac
